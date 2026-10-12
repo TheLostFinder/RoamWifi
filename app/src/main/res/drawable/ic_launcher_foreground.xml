@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Three Wi-Fi arcs + dot, kept inside the 66dp adaptive-icon safe zone -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#38BDF8"
+        android:strokeWidth="5"
+        android:strokeLineCap="round"
+        android:pathData="M30,46 A34,34 0 0,1 78,46" />
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#38BDF8"
+        android:strokeWidth="5"
+        android:strokeLineCap="round"
+        android:pathData="M38,55 A22,22 0 0,1 70,55" />
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#38BDF8"
+        android:strokeWidth="5"
+        android:strokeLineCap="round"
+        android:pathData="M46,64 A10,10 0 0,1 62,64" />
+    <path
+        android:fillColor="#38BDF8"
+        android:pathData="M54,74m-4.5,0a4.5,4.5 0,1 1,9 0a4.5,4.5 0,1 1,-9 0" />
+</vector>
